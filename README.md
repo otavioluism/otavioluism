@@ -9,7 +9,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### 🌍 "1% melhor todo dia" 🧠
 
 - 📍 From SC living in Taió
-- 💻 full stack developer at [Magafilio](https://magafilio.com.br/)
+- 💻  Full Stack developer at [Magafilio](https://magafilio.com.br/)
+
 
 Reach me out 👇🏼
 
